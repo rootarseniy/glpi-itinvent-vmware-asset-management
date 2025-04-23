@@ -1,0 +1,1 @@
+# glpi-itinvent-vmware-asset-management
